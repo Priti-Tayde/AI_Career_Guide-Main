@@ -1,0 +1,2 @@
+
+    print("Tables created")
