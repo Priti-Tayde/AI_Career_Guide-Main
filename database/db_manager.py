@@ -1,3 +1,4 @@
+
 def create_tables():
     print("Tables created")
 
@@ -7,4 +8,15 @@ def register_user(username, password):
 
 def login_user(username, password):
     # validate user
+=======
+def create_tables():
+    print("Tables created")
+
+def register_user(username, password):
+    # insert user into database
+    pass
+
+def login_user(username, password):
+    # validate user
+
     pass
